@@ -1,6 +1,6 @@
 name: Elaine Randolph
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.83682
 typography_spectrum: 0.9381
 title: "Elaine Randolph Design's  /  Architectural Designer    Colorist"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#656565'
     - '#d2e19d'
     - '#9aa177'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 0.4375
   saturation: 0.75
   rhythmicContrast: 0.5
