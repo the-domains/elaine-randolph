@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Designer / Product Selections / Color Selections
-datePublished: '2015-11-19T01:36:07.227Z'
-dateModified: '2015-11-19T01:35:28.713Z'
+datePublished: '2015-11-19T03:17:40.654Z'
+dateModified: '2015-11-19T01:36:09.946Z'
 title: Terra De Belos Cavalos
 sourcePath: _posts/2015-11-19-terra-de-belos-cavalos.md
 published: true
