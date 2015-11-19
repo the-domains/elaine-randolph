@@ -1,0 +1,23 @@
+name: Elaine Randolph
+favicon: null
+layout_spectrum: 0.8686294783838093
+typography_spectrum: 0.186243187636137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3114703835453838
+  lightness: 0.38766975002363324
+  saturation: 0.8688907846808434
+  rhythmicContrast: 0.006515411892905831
+purpose: []
