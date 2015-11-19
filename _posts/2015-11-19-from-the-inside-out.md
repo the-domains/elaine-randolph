@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Project : 2015 '
-datePublished: '2015-11-19T03:53:27.455Z'
-dateModified: '2015-11-19T03:53:13.453Z'
+datePublished: '2015-11-19T03:54:58.061Z'
+dateModified: '2015-11-19T03:54:47.684Z'
 title: 'From the "Inside Out"'
 authors: []
 publisher:
