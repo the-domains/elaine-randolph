@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Architectural Design / Colorist]]></title>
-        <description><![CDATA[Architectural Design / Colorist]]></description>
+        <title><![CDATA[Architectural Designer / Colorist]]></title>
+        <description><![CDATA[Architectural Designer / Colorist]]></description>
         <link>https://thegrid.ai/elaine-randolph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 01:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 01:36:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elaine-randolph/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Clay Street San Francisco]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Terra De Belos Cavalos]]></title>
-            <description><![CDATA[<article><h1>Terra De Belos Cavalos</h1><p>Designer / Product Selections / Color Selections</p></article>]]></description>
+            <description><![CDATA[<article><h1>Terra De Belos Cavalos</h1><p>Designer / Product Selections / Color Selections</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0cdf97-7713-4397-b20c-b4e0d81f4369.jpg"></article>]]></description>
             <link>https://thegrid.ai/elaine-randolph/terra-de-belos-cavalos/index.html</link>
             <guid isPermaLink="false">a33464f8-e199-4a89-a8a4-17e5d0f08d70</guid>
-            <pubDate>Thu, 19 Nov 2015 00:29:19 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 01:36:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
