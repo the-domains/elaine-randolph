@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Architectural Design / Colorist]]></title>
         <description><![CDATA[Architectural Design / Colorist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elaine-randolph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 00:29:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 01:04:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elaine-randolph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Importance of Lighting ]]></title>
+            <description><![CDATA[<article><h1>Importance of Lighting </h1><p>Designed 2015</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95acb20e-f04b-4a92-96c2-8c6821a36aab.jpg"></article>]]></description>
+            <link>https://thegrid.ai/elaine-randolph/importance-of-lighting/index.html</link>
+            <guid isPermaLink="false">27e4fcaa-9738-4cd4-996e-fdfc7ac6ae98</guid>
+            <pubDate>Thu, 19 Nov 2015 01:04:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Terra De Belos Cavalos]]></title>
             <description><![CDATA[<article><h1>Terra De Belos Cavalos</h1><p>Designer / Product Selections / Color Selections</p></article>]]></description>
-            <link>undefinedterra-de-belos-cavalos/index.html</link>
+            <link>https://thegrid.ai/elaine-randolph/terra-de-belos-cavalos/index.html</link>
             <guid isPermaLink="false">a33464f8-e199-4a89-a8a4-17e5d0f08d70</guid>
             <pubDate>Thu, 19 Nov 2015 00:29:19 GMT</pubDate>
         </item>
